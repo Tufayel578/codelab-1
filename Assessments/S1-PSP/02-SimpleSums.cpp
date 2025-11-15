@@ -7,5 +7,5 @@ int main() {
     int sum = num1 + num2;  // adds the two numbers
 
     cout << sum << endl; // prints the result to the console
-}
+} 
 
