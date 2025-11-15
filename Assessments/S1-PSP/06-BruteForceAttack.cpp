@@ -25,5 +25,5 @@ int main() {
 
     // if all attempts are used
     cout << "5 failed attempts. The authorities have been alerted!" << endl;
-}
+} 
 
