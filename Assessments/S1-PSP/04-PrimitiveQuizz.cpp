@@ -39,4 +39,4 @@ int main() {
     } else {
         cout << "Wrong." << endl;
     }
-}
+} 
