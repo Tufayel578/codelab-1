@@ -10,6 +10,6 @@ int main(){
   hello(); // calling the function
 
   return 0;
-}
+} 
 
 
