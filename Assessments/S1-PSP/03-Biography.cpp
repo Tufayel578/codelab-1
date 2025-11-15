@@ -18,5 +18,5 @@ int main() {
 
     // prints everything with one cout (each on a new line)
     cout << name << "\n" << hometown << "\n" << age << endl;
-}
+} 
 
